@@ -56,7 +56,6 @@ The objective of this project is to analyze customer data and uncover the key fa
 - Histograms
 - Count Plots
 - Box Plots
-- Correlation Heatmap
 
 ## Key Insights
 
