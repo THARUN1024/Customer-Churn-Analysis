@@ -71,10 +71,3 @@ The objective of this project is to analyze customer data and uncover the key fa
 ## Conclusion
 
 This analysis identified key factors associated with customer churn, particularly customer activity level, age, product usage, tenure, and account balance. The findings can help banking institutions design targeted retention strategies, improve customer engagement, and reduce customer attrition through data-driven decision-making.
-
-## Future Improvements
-
-- Build machine learning models for churn prediction.
-- Perform feature engineering to improve predictive performance.
-- Develop an interactive dashboard using Tableau or Power BI.
-- Compare multiple classification algorithms and evaluate their performance.
